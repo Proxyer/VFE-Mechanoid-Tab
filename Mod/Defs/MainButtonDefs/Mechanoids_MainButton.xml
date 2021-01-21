@@ -2,9 +2,9 @@
 <Defs>
   <MainButtonDef>
     <defName>VFEMT_Mechanoids</defName>
-    <label>Mechanoids</label>
-    <description>Tracking and configuring colony's mechanoids.</description>
+    <label>drones</label>
+    <description>Tracking and configuring colony's drones.</description>
     <tabWindowClass>VFEMT.MainTabWindow_Mechanoids</tabWindowClass>
-    <order>45</order>
+    <order>41</order>
   </MainButtonDef>
 </Defs>
