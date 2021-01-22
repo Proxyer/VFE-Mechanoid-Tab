@@ -6,7 +6,7 @@
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
-	<description>Adds a colony's mechanoids tab, for tracking and control.</description>
+	<description>Adds a colony's drones tab, for tracking and control.</description>
 	<modDependencies>
     <li>
 			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
